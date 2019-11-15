@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css?family=Charm|Cutive+Mono&display=swap');
+
+header{
+  font-family: 'Charm', cursive;
+}
+
+div{
+  font-family: 'Cutive Mono', monospace;
+}
+
+h1{
+  font-size: 80px;
+}
